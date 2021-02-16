@@ -1,5 +1,7 @@
 # Docker 进阶
 
+按照[狂神的视频](https://www.bilibili.com/video/BV1kv411q7Qc)做的笔记。
+
 ## Docker Compose
 
 > 官方介绍：
